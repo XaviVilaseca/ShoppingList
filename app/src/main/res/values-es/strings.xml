@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="confirm">Confirmación</string>
+    <string name="remove">Borrar</string>
+    <string name="confirm_message">Esta seguro de querer eliminar \'%1$s\'?</string>
+    <string name="chestnust">Castañas</string>
+    <string name="pizza">Pizza</string>
+    <string name="potatoes">Patatas</string>
+</resources>
